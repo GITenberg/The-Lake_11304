@@ -1,0 +1,38 @@
+_repo: The-Lake_11304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: Father Gogarty's changing perceptions of the landscape he encounters
+  during his frequent walks around a lake in a remote area of Ireland lead him to
+  question some fundamental principles of the Catholic Church and to come to a more
+  instinctive relationship with God. The afterword discusses Moore's literary style
+  and the influence of Zola, Dujardin, and his own later writing which led to two
+  revisions of The Lake.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Spiritual life -- Fiction'
+- !lcsh 'Priests -- Ireland -- Fiction'
+- !lcsh 'Nature -- Psychological aspects -- Fiction'
+- !lcsh 'Unmarried mothers -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Catholic Church -- Ireland -- Clergy -- Fiction'
+- GITenberg
+title: The Lake
+url: http://www.gutenberg.org/ebooks/11304
