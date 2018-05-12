@@ -1,5 +1,8 @@
 _repo: The-Lake_11304
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moore, George Augustus
@@ -17,6 +20,8 @@ description: Father Gogarty's changing perceptions of the landscape he encounter
   instinctive relationship with God. The afterword discusses Moore's literary style
   and the influence of Zola, Dujardin, and his own later writing which led to two
   revisions of The Lake.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11304#The-Lake
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
